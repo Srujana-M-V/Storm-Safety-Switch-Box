@@ -21,4 +21,5 @@ Once conditions return to normal, power is restored automatically.
 - Home appliance protection
 - Storm safety system
 - Embedded systems learning
+- arduino basics
 
